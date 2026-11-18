@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600">
+  <defs>
+    <radialGradient id="bgGrad" cx="50%" cy="40%" r="70%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#FCF7EF"/>
+    </radialGradient>
+    <linearGradient id="goldGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#B88A28"/>
+      <stop offset="50%" stop-color="#F6E299"/>
+      <stop offset="100%" stop-color="#B88A28"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="600" fill="url(#bgGrad)"/>
+  <circle cx="300" cy="300" r="245" fill="none" stroke="rgba(212,175,55,0.22)" stroke-width="2"/>
+  
+        <ellipse cx="300" cy="515" rx="95" ry="18" fill="rgba(13,12,16,0.12)"/>
+        <path d="M204 115h192l-30 315H234z" fill="#C59B5F" stroke="#FFF" stroke-width="5"/>
+        <rect x="202" y="102" width="196" height="28" rx="6" fill="#0D0C10"/>
+        <rect x="246" y="430" width="108" height="68" rx="10" fill="#FFF" stroke="#D4AF37" stroke-width="4"/>
+        <rect x="234" y="190" width="132" height="162" rx="16" fill="rgba(255,255,255,0.95)"/>
+        <text x="300" y="252" text-anchor="middle" font-size="20" font-weight="800" fill="#0D0C10" font-family="Georgia,serif">FACETOLOGY</text>
+        <text x="300" y="284" text-anchor="middle" font-size="15" font-weight="700" fill="#C59B5F" font-family="Arial,sans-serif">TINTED SPF</text>
+        <text x="300" y="312" text-anchor="middle" font-size="13" fill="#666" font-family="Arial,sans-serif">40 ML</text>
+        
+</svg>

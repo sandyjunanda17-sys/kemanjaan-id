@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600">
+  <defs>
+    <radialGradient id="bgGrad" cx="50%" cy="40%" r="70%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#EFF7FD"/>
+    </radialGradient>
+    <linearGradient id="goldGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#B88A28"/>
+      <stop offset="50%" stop-color="#F6E299"/>
+      <stop offset="100%" stop-color="#B88A28"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="600" fill="url(#bgGrad)"/>
+  <circle cx="300" cy="300" r="245" fill="none" stroke="rgba(212,175,55,0.22)" stroke-width="2"/>
+  
+        <ellipse cx="300" cy="515" rx="105" ry="18" fill="rgba(13,12,16,0.12)"/>
+        <path d="M285 80h62v22h-48v42h-14z" fill="#0D0C10"/>
+        <rect x="262" y="140" width="76" height="36" rx="8" fill="url(#goldGrad)"/>
+        <rect x="204" y="176" width="192" height="325" rx="56" fill="#3498DB" stroke="#FFF" stroke-width="5"/>
+        <rect x="225" y="252" width="150" height="168" rx="22" fill="rgba(255,255,255,0.95)"/>
+        <text x="300" y="324" text-anchor="middle" font-size="23" font-weight="800" fill="#0D0C10" font-family="Georgia,serif">MARINA</text>
+        <text x="300" y="356" text-anchor="middle" font-size="15" font-weight="700" fill="#3498DB" font-family="Arial,sans-serif">UV WHITE</text>
+        <text x="300" y="384" text-anchor="middle" font-size="13" fill="#666" font-family="Arial,sans-serif">185 ML</text>
+        
+</svg>

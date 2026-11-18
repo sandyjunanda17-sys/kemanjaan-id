@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600">
+  <defs>
+    <radialGradient id="bgGrad" cx="50%" cy="40%" r="70%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#F4F6F7"/>
+    </radialGradient>
+    <linearGradient id="goldGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#B88A28"/>
+      <stop offset="50%" stop-color="#F6E299"/>
+      <stop offset="100%" stop-color="#B88A28"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="600" fill="url(#bgGrad)"/>
+  <circle cx="300" cy="300" r="245" fill="none" stroke="rgba(212,175,55,0.22)" stroke-width="2"/>
+  
+        <ellipse cx="300" cy="505" rx="140" ry="18" fill="rgba(13,12,16,0.12)"/>
+        <path d="M244 162c0-48 112-48 112 0" fill="none" stroke="#0D0C10" stroke-width="14"/>
+        <rect x="168" y="162" width="264" height="332" rx="64" fill="rgba(255,255,255,0.75)" stroke="#0D0C10" stroke-width="8"/>
+        <rect x="204" y="316" width="192" height="136" rx="32" fill="rgba(232,122,144,0.22)" stroke="#0D0C10" stroke-width="5"/>
+        <rect x="256" y="236" width="88" height="42" rx="12" fill="#0D0C10"/>
+        <text x="300" y="263" text-anchor="middle" font-size="18" font-weight="800" fill="#F3E5AB" font-family="Arial,sans-serif">CLEAR</text>
+        
+</svg>

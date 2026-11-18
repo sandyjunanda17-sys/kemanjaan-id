@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600">
+  <defs>
+    <radialGradient id="bgGrad" cx="50%" cy="40%" r="70%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#FFF9EE"/>
+    </radialGradient>
+    <linearGradient id="goldGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#B88A28"/>
+      <stop offset="50%" stop-color="#F6E299"/>
+      <stop offset="100%" stop-color="#B88A28"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="600" fill="url(#bgGrad)"/>
+  <circle cx="300" cy="300" r="245" fill="none" stroke="rgba(212,175,55,0.22)" stroke-width="2"/>
+  
+        <ellipse cx="300" cy="515" rx="165" ry="20" fill="rgba(13,12,16,0.12)"/>
+        <rect x="330" y="195" width="150" height="295" rx="28" fill="#0D0C10" stroke="#D4AF37" stroke-width="5"/>
+        <text x="405" y="335" text-anchor="middle" font-size="22" font-weight="800" fill="#F3E5AB" font-family="Georgia,serif">POUCH</text>
+        <text x="405" y="365" text-anchor="middle" font-size="14" font-weight="700" fill="#E87A90" font-family="Arial,sans-serif">EXCLUSIVE</text>
+        <rect x="135" y="130" width="110" height="360" rx="30" fill="#E87A90" stroke="#FFF" stroke-width="4"/>
+        <rect x="162" y="88" width="56" height="44" rx="8" fill="url(#goldGrad)"/>
+        <rect x="150" y="210" width="80" height="150" rx="12" fill="#FFF"/>
+        <text x="190" y="290" text-anchor="middle" font-size="15" font-weight="800" fill="#0D0C10" font-family="Arial,sans-serif">TONER</text>
+        <rect x="245" y="165" width="110" height="325" rx="30" fill="#F29CB0" stroke="#FFF" stroke-width="4"/>
+        <rect x="272" y="122" width="56" height="44" rx="8" fill="url(#goldGrad)"/>
+        <rect x="260" y="240" width="80" height="145" rx="12" fill="#FFF"/>
+        <text x="300" y="315" text-anchor="middle" font-size="15" font-weight="800" fill="#0D0C10" font-family="Arial,sans-serif">TONER</text>
+        <circle cx="430" cy="145" r="42" fill="#D4AF37"/>
+        <text x="430" y="153" text-anchor="middle" font-size="19" font-weight="900" fill="#0D0C10" font-family="Arial,sans-serif">4 PCS</text>
+        
+</svg>

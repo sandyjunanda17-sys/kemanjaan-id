@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600">
+  <defs>
+    <radialGradient id="bgGrad" cx="50%" cy="40%" r="70%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#FFF3F6"/>
+    </radialGradient>
+    <linearGradient id="goldGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#B88A28"/>
+      <stop offset="50%" stop-color="#F6E299"/>
+      <stop offset="100%" stop-color="#B88A28"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="600" fill="url(#bgGrad)"/>
+  <circle cx="300" cy="300" r="245" fill="none" stroke="rgba(212,175,55,0.22)" stroke-width="2"/>
+  
+        <ellipse cx="300" cy="515" rx="95" ry="18" fill="rgba(13,12,16,0.12)"/>
+        <path d="M278 88c0-20 44-20 44 0v54h-44z" fill="#0D0C10"/>
+        <rect x="252" y="140" width="96" height="36" rx="8" fill="url(#goldGrad)"/>
+        <path d="M214 218c0-28 28-44 86-44s86 16 86 44v245c0 24-18 38-42 38h-88c-24 0-42-14-42-38z" fill="#E87A90" stroke="#FFF" stroke-width="5"/>
+        <rect x="234" y="256" width="132" height="184" rx="16" fill="rgba(255,255,255,0.94)"/>
+        <text x="300" y="328" text-anchor="middle" font-size="22" font-weight="800" fill="#0D0C10" font-family="Georgia,serif">ORIGINOTE</text>
+        <text x="300" y="362" text-anchor="middle" font-size="15" font-weight="700" fill="#E87A90" font-family="Arial,sans-serif">GLOW SERUM</text>
+        <text x="300" y="390" text-anchor="middle" font-size="13" fill="#666" font-family="Arial,sans-serif">20 ML</text>
+        
+</svg>

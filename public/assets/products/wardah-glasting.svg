@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600">
+  <defs>
+    <radialGradient id="bgGrad" cx="50%" cy="40%" r="70%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#FFF0F5"/>
+    </radialGradient>
+    <linearGradient id="goldGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#B88A28"/>
+      <stop offset="50%" stop-color="#F6E299"/>
+      <stop offset="100%" stop-color="#B88A28"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="600" fill="url(#bgGrad)"/>
+  <circle cx="300" cy="300" r="245" fill="none" stroke="rgba(212,175,55,0.22)" stroke-width="2"/>
+  
+        <ellipse cx="300" cy="515" rx="88" ry="16" fill="rgba(13,12,16,0.12)"/>
+        <rect x="250" y="295" width="100" height="205" rx="16" fill="#0D0C10" stroke="#D4AF37" stroke-width="4"/>
+        <rect x="250" y="262" width="100" height="36" rx="4" fill="url(#goldGrad)"/>
+        <path d="M266 262V156c0-28 68-72 68-22v128z" fill="#D81B60"/>
+        <rect x="266" y="342" width="68" height="114" rx="8" fill="rgba(255,255,255,0.12)"/>
+        <text x="300" y="392" text-anchor="middle" font-size="16" font-weight="800" fill="#F3E5AB" font-family="Georgia,serif">WARDAH</text>
+        <text x="300" y="418" text-anchor="middle" font-size="12" font-weight="700" fill="#FFF" font-family="Arial,sans-serif">GLASTING LIP</text>
+        
+</svg>

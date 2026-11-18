@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600">
+  <defs>
+    <radialGradient id="bgGrad" cx="50%" cy="40%" r="70%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#EFF6FA"/>
+    </radialGradient>
+    <linearGradient id="goldGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#B88A28"/>
+      <stop offset="50%" stop-color="#F6E299"/>
+      <stop offset="100%" stop-color="#B88A28"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="600" fill="url(#bgGrad)"/>
+  <circle cx="300" cy="300" r="245" fill="none" stroke="rgba(212,175,55,0.22)" stroke-width="2"/>
+  
+        <ellipse cx="300" cy="515" rx="115" ry="18" fill="rgba(13,12,16,0.12)"/>
+        <rect x="252" y="102" width="96" height="72" rx="14" fill="#0D0C10" stroke="#D4AF37" stroke-width="4"/>
+        <rect x="264" y="174" width="72" height="24" fill="url(#goldGrad)"/>
+        <rect x="184" y="198" width="232" height="302" rx="38" fill="rgba(243,229,171,0.35)" stroke="#D4AF37" stroke-width="6"/>
+        <rect x="202" y="216" width="196" height="266" rx="26" fill="#1F618D" opacity="0.24"/>
+        <rect x="222" y="274" width="156" height="140" rx="16" fill="#0D0C10"/>
+        <text x="300" y="330" text-anchor="middle" font-size="22" font-weight="800" fill="#F3E5AB" font-family="Georgia,serif">KAHF</text>
+        <text x="300" y="360" text-anchor="middle" font-size="13" font-weight="700" fill="#FFF" font-family="Arial,sans-serif">REVERED OUD</text>
+        <text x="300" y="384" text-anchor="middle" font-size="12" fill="#E87A90" font-family="Arial,sans-serif">35 ML</text>
+        
+</svg>
